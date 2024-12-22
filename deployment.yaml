@@ -1,0 +1,4 @@
+template-file-path: ./cf-template.yaml
+tags:
+    Name: 'gitsync'
+    Project: 'Demo'
